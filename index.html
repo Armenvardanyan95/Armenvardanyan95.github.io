@@ -1,10 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title JAN</title>
-</head>
-<body>
-VERY VERY MAN
-</body>
+<html lang="en" ng-app="app">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="initial-scale=1, width=device-width, maximum-scale=1, user-scalable=no" />
+        <title>Title</title>
+
+        <link rel="stylesheet" href="styles/main.css">
+
+        <!-- Facebook SDK -->
+        <script>
+            window.fbAsyncInit = function() {
+                FB.init({
+                    appId      : '1166730260014292',
+                    xfbml      : true,
+                    version    : 'v2.8'
+                });
+                FB.AppEvents.logPageView();
+            };
+
+            (function(d, s, id){
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {return;}
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+
+    </head>
+    <body scroll-direction>
+        <md-header ng-class="{'sticky-header': scrollDirection == 'up'}"></md-header>
+        <div>
+            <side-bar></side-bar>
+            <div ui-view></div>
+        </div>
+        <script src="scripts/vendor.js"></script>
+
+         <script src="scripts/main.js"></script>
+        <script type="text/javascript">
+            Ps.initialize(document.body);
+        </script>
+    </body>
 </html>

@@ -1,0 +1,69 @@
+<md-dialog aria-label="Mango (Fruit)" class="loginDialog">
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <h2>Մուտք (Գրանցում)</h2>
+            <span flex></span>
+            <md-button class="md-icon-button" ng-click="vm.cancel()">
+                <md-icon md-svg-src="assets/img/close.svg" aria-label="Close dialog"></md-icon>
+            </md-button>
+        </div>
+    </md-toolbar>
+    <md-dialog-content style="width:600px;max-height:600px; ">
+        <md-tabs md-dynamic-height md-border-bottom>
+            <md-tab label="Մուտք">
+                <md-content class="md-padding">
+                    {{ vm.explanation }}
+                    <form name="loginForm">
+                        <md-input-container class="md-block">
+                            <label>Էլեկտրոնային հասցե</label>
+                            <input ng-model="vm.login.username">
+                        </md-input-container>
+                        <md-input-container class="md-block">
+                            <label>Գաղտնաբառ</label>
+                            <input type="password" ng-model="vm.login.password">
+                        </md-input-container>
+                    </form>
+                    <span flex></span>
+                    <md-button ng-click="vm.signIn()">
+                        Մուտք գործել
+                        <md-icon md-svg-src="assets/img/login.svg"></md-icon>
+                    </md-button>
+                </md-content>
+            </md-tab>
+            <md-tab label="Գրանցում">
+                <md-content class="md-padding">
+                    <form name="registerForm">
+                        <md-input-container class="md-block">
+                            <label>Էլեկտրոնային հասցե</label>
+                            <input ng-model="vm.registration.email">
+                        </md-input-container>
+                        <md-input-container class="md-block">
+                            <label>Գաղտնաբառ</label>
+                            <input type="password" ng-model="vm.registration.password">
+                        </md-input-container>
+                        <md-input-container class="md-block">
+                            <label>Կրկնեք գաղտնաբառը</label>
+                            <input ng-model="vm.registration.repeat_password">
+                        </md-input-container>
+                    </form>
+                    <md-button ng-click="vm.user.save(vm.registration)">
+                        Գրանցվել
+                    </md-button>
+                </md-content>
+            </md-tab>
+        </md-tabs>
+    </md-dialog-content>
+
+    <md-dialog-actions layout="row">
+        <md-button href="http://en.wikipedia.org/wiki/Mango" target="_blank" md-autofocus>
+            More on Wikipedia
+        </md-button>
+        <span flex></span>
+        <md-button ng-click="answer('not useful')" >
+            Not Useful
+        </md-button>
+        <md-button ng-click="answer('useful')" style="margin-right:20px;" >
+            Useful
+        </md-button>
+    </md-dialog-actions>
+</md-dialog>

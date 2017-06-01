@@ -1,0 +1,12 @@
+`<md-content flex layout="column" class="articles" scrollbar>
+    <md-content flex="100" layout="row" layout-align="center">
+        <md-content flex-sm="95" flex-gt-xs="35">
+            <md-card>
+                <md-input-container class="md-block search-input">
+                    <input ng-model="magazines.query" class="search-input-inside" ng-change="magazines.filterMagazines()">
+                </md-input-container>
+            </md-card>
+            <magazine magaz="magazine" ng-repeat="magazine in magazines.magazines"></magazine>
+        </md-content>
+    </md-content>
+</md-content>`
