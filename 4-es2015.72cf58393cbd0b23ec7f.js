@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"+mPt":function(n,s,c){"use strict";c.r(s),c.d(s,"ArticlesModule",(function(){return o}));class o{}}}]);
