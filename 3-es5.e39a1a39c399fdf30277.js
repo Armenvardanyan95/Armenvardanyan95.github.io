@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"+mPt":function(n,t,o){"use strict";o.r(t),o.d(t,"ArticlesModule",(function(){return u}));var u=function(){return function(){}}()}}]);

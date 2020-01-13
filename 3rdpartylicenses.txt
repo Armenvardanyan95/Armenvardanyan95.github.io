@@ -92,6 +92,8 @@ THE SOFTWARE.
 
 @angular/material/icon
 
+@angular/material/tabs
+
 @angular/material/toolbar
 
 @angular/material/tooltip
