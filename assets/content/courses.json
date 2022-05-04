@@ -1,0 +1,14 @@
+[
+    {
+        "title": "RxJS Fundamentals",
+        "description": "RxJS fundamentals is a free and open text-based course about RxJS. It is a collection of short, well-written lessons that teach you the fundamentals of RxJS: Observables, Operators, Subjects, and how to use them. I collabaorated with Lars Gyrup Brink Nielsen, Santosh Yadav, Maina Wycliffe, Chau Tran, Olexandr Poshtaryuk and others on this",
+        "link": "https://this-is-learning.github.io/rxjs-fundamentals-course/",
+        "tags": ["rxjs"]
+    },
+    {
+        "title": "NgRx Essentials",
+        "description": "NgRx Essentials is a free and open text-based course about NgRx. It is a guided tutorial with examples that explainsthe essential features of NgRx: Store, Actions, Effects, Reducers, and how to use them. I collabaorated with Lars Gyrup Brink Nielsen and Alain Boudard on this",
+        "link": "https://this-is-angular.github.io/ngrx-essentials-course/",
+        "tags": ["ngrx", "angular"]
+    }
+]

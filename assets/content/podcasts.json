@@ -1,0 +1,22 @@
+[
+    {
+        "title": "The Problems with the Angular Test-Bed ft. Georgi Parlakov - AiA 334",
+        "description": "With Georgi Parlakov as guest, we discussed situations when developers can bypass using the TestBed module for unit testing, and the approach he developed for unit testing in Angular. ",
+        "link": "https://adventuresinangular.com/the-problems-with-the-angular-test-bed-ft-georgi-parlakov-aia-334"
+    },
+    {
+        "title": "TypeScript Mixins - AiA 327",
+        "description": "This time we conducted a panel discussion and I presented the topic of Mixins - function that return classes to share functionality - and how they can be used in Angular development",
+        "link": "https://adventuresinangular.com/typescript-mixins-aia-327"
+    },
+    {
+        "title": "All Things TypeScript ft. Wycliffe Maina - AiA 326",
+        "description": "With Maina Wycliffe as guest, we discusses TypeScript advanced topics like utility types, type narrowing, how type inference works and more. I participated as host",
+        "link": "https://adventuresinangular.com/all-things-typescript-ft-wycliffe-maina-aia-326"
+    },
+    {
+        "title": "RxJS Best Practices in Angular ft. Tomas Trajan - AiA 324",
+        "description": "With Tomas Trajan as a guest we discussed best practices for using RxJS in Angular applications, and also some interesting tricks and approaches for NgRx/RxJS. I participated as a panelist  ",
+        "link": "https://adventuresinangular.com/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324"
+    }
+]

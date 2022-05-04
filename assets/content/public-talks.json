@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Why you should definitely use NgRx?",
+        "description": "During the JSConf Armenia 2021 I had a talk about using NgRx in Angular applications, how to add NgRx to an existing Angular app, what are the pros and cons of state management, what are the core important concepts ad why I think NgRx can be a good solution for lots of developers (talk in Armenian)",
+        "link": "https://www.youtube.com/embed/NkqAboxA6aw",
+        "tags": ["angular", "ngrx"]
+    },
+    {
+        "title": "Angular Sussex 2022-01-26 Do you refactor? - Tom White and guest Armen Vardanyan GDE",
+        "description": "On this episode of the Angular Sussex online meetup we discussed different approaches to refactoring Angular codebases, I presented some ideas from my article on the topic, and we also discussed and suggested other ideas and strategies for massive (and not so much) changes in codebases",
+        "link": "https://www.youtube.com/embed/0FyywiW9Zco",
+        "tags": ["angular"]
+    },
+    {
+        "title": "Functional Programming and NgRx (ngYerevan + Angular World Tour)",
+        "description": "This year we organized the second instalment for the very first Armenia based Angular meetup - this time joined by Angular World Tour. I was the host and also a speaker, presenting about usage of Functional Programming with NgRx, core concepts important for writing better code, and interesting techniques  ",
+        "link": "https://www.youtube.com/embed/RJ_R4ie4IjM",
+        "tags": ["angular", "rxjs"]
+    },
+    {
+        "title": "NG Meetup Yerevan",
+        "description": "In June 2021 we launched the very first installment of NG Meetup Yerevan - first Angular meetup in Armenia, with a special guest: Lars Gyrup Brink Nielsen",
+        "link": "https://www.youtube.com/embed/XAEGU18i0oI",
+        "tags": ["angular", "rxjs"]
+    },
+    {
+        "title": "Angular + Web Components",
+        "description": "In this talk, I elaborate n how we can convert ordinary Angular components into Web Components and use them in any applation (talk in Armenian)",
+        "link": "https://www.youtube.com/embed/xLWPRKSrb28",
+        "tags": []
+    }
+]
