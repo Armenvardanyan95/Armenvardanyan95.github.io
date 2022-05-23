@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--C4OTBxiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3p5thm85eeipi7go8dzk.jpg",
+    "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
+    "title": "Change Detection without Change Detection",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--8nguRxKf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy2tqtfgen1tm60w7ivz.jpg",
     "link": "https://dev.to/this-is-learning/understanding-rxjs-use-cases-part-ii-51ll",
     "title": "Understanding RxJS use cases (part II)",
