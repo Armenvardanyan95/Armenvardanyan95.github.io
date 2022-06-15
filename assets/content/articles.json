@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--uzf0dubG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g0a5s7ra5oxpi9vhr3mr.jpg",
+    "link": "https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7",
+    "title": "Design Patterns in Angular (part I)",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--C4OTBxiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3p5thm85eeipi7go8dzk.jpg",
     "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
     "title": "Change Detection without Change Detection",
