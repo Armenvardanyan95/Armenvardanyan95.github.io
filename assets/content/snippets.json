@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Perform a side effect on a stream but only once",
+    "description": "Sometimes we want to perform side effects on #rxjs streams, but only once, e.g., the very first time (for example if we want to \"setValue\" on a FormControl but ignore other emissions but showing next emissions in the UI). Can also be used to perform the side effect on a specific index of emission",
+    "path": "assets/content/code-snippets/tap-once.md"
+  },
+  {
+    "title": "Ditch change detection but still use Angular as usual",
+    "description": "Using Angular 14's new \"inject\" function and JavaScript Proxies, build a state that manually triggers change detection",
+    "path": "assets/content/code-snippets/change-detection-proxy.md"
+  },
+  {
+    "title": "Changing nested fields of an object inside of an array if the object satisfies a condition",
+    "description": "Use immerjs for this, to create a new instance while changing the values imperatively",
+    "path": "assets/content/code-snippets/array-immer.md"
+  },
+  {
+    "title": "Opening a \"You have been inactive popup\"",
+    "description": "Use RxJS for this, listen to a bunch of events, buffer them and check if the buffer is empty",
+    "path": "assets/content/code-snippets/inactive-popup-rxjs.md"
+  },
+  {
+    "title": "Remove key from object type-safely",
+    "description": "Use destructuring for this, discard the property, keep the cleared object",
+    "path": "assets/content/code-snippets/remove-key-from-object.md"
+  },
+  {
+    "title": "Avoid toArray gotcha",
+    "description": "\"toArray\" waits for the source Observable to complete, rather than the one you switched to, to emit the values in an Array; if the source is \"infinite\", you will never get the values, even if the Observable you \"switchMap\" to does.",
+    "path": "assets/content/code-snippets/to-array-gotcha.md"
+  },
+  {
+    "title": "Getting form value including disabled controls",
+    "description": "A special method exists to get the full value of the form",
+    "path": "assets/content/code-snippets/raw-value-form.md"
+  },
+  {
+    "title": "Retry an action if error happens on a condition",
+    "description": "Use RxJS \"retry\" with a config, provide another Observable to listen to",
+    "path": "assets/content/code-snippets/retry-rxjs.md"
+  }
+]
