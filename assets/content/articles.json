@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqUaFAw9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9k8ag91o8kil8qwjmqru.jpg",
+    "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-ii-working-with-lists-1j58",
+    "title": "NgRx Use Cases, part II: Working with Lists",
+    "description": "",
+    "tags": ["angular", "ngrx"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--ROr84PzE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4o2gepyqc7pjr5aulnja.jpg",
     "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-i-restricting-access-30lo",
     "title": "NgRx Use Cases, Part I: Restricting Access",
