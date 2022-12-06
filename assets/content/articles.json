@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--EoXQ_YAl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aywrvinkc0p1epkvs44t.jpg",
+    "link": "https://dev.to/this-is-angular/always-use-inject-2do4",
+    "title": "Always use \"inject\"",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqUaFAw9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9k8ag91o8kil8qwjmqru.jpg",
     "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-ii-working-with-lists-1j58",
     "title": "NgRx Use Cases, part II: Working with Lists",
