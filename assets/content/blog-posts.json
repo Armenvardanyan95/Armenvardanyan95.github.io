@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Where is Angular headed",
+        "slug": "where-is-angular-headed",
+        "date": "2023-01-19T00:00:00.000Z",
+        "description": "With recent developments in the Angular ecosystem, it is now time to review and understand where Angular, and with what approaches does the future of tnhe framework lie.",
+        "file": "where-is-angular-headed.md",
+        "cover": "where-is-angular-headed.jpg",
+        "tags": [
+            "angular",
+            "javascript",
+            "typescript"
+        ]
+    }
+]
