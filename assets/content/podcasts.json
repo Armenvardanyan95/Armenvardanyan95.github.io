@@ -23,5 +23,10 @@
         "title": "RxJS Best Practices in Angular ft. Tomas Trajan - AiA 324",
         "description": "With Tomas Trajan as a guest we discussed best practices for using RxJS in Angular applications, and also some interesting tricks and approaches for NgRx/RxJS. I participated as a panelist  ",
         "link": "https://adventuresinangular.com/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324"
+    },
+    {
+        "title": "Power Up Angular with RXjs with Armen Vardanyan - AiA 308",
+        "description": "This was my very first podcast episode ever. I was a guest on the Adventures in Angular podcast and we discussed RxJS and how to use it in Angular applications. It went well, so later Charles invitied me to be a panelist on the show. ",
+        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/aia-308-power-up-angular-with-rxjs-with-armen-vardanyan"
     }
 ]
