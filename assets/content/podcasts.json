@@ -1,5 +1,10 @@
 [
     {
+        "title": "Latest Versions Of NgRx v14 & v15 - AiA 367",
+        "description": "In this episode, I discuss the latest versions of NgRx v14 and v15, and how to use them in Angular applications. I also discuss future features promised by the NgRx team. ",
+        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/latest-versions-of-ngrx-v14-v15-aia-367"
+    },
+    {
         "title": "Change Detection Method in Angular - AiA 359",
         "description": "In this episode, I discuss the ability to turn off change detection for certain components and still enjoy \"automatic\" change detection with JS Proxies and the new Angular \"inject\"  function, it's downsides and use cases",
         "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/change-detection-method-in-angular-aia-359"
