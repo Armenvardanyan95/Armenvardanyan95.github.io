@@ -6,6 +6,7 @@
         "description": "With recent developments in the Angular ecosystem, it is now time to review and understand where Angular, and with what approaches does the future of the framework lie.",
         "file": "where-is-angular-headed.md",
         "cover": "where-is-angular-headed.avif",
+        "ogCover": "where-is-angular-headed.jpg",
         "tags": [
             "angular",
             "javascript",
