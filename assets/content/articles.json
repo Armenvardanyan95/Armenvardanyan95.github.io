@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--c6WeHGT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8n1v1rsbanx5i91iisvv.jpg",
+    "link": "https://dev.to/this-is-angular/the-new-ngrx-lf1",
+    "title": "The new NgRx",
+    "description": "",
+    "tags": ["angular", "ngrx", "typescript"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--EoXQ_YAl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aywrvinkc0p1epkvs44t.jpg",
     "link": "https://dev.to/this-is-angular/always-use-inject-2do4",
     "title": "Always use \"inject\"",
@@ -11,7 +18,7 @@
     "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-ii-working-with-lists-1j58",
     "title": "NgRx Use Cases, part II: Working with Lists",
     "description": "",
-    "tags": ["angular", "ngrx"]
+    "tags": ["angular", "ngrx", "rxjs"]
   },
   {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--ROr84PzE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4o2gepyqc7pjr5aulnja.jpg",
