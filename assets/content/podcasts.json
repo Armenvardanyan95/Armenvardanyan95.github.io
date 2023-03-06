@@ -1,5 +1,10 @@
 [
     {
+        "title": "Standalone Structure with Nx - AiA 372",
+        "description": "In this episode, we discuss Nx, standalone components, and how they can work together with Colum Ferry, a Senior Software Engineer at Nrwl ",
+        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/standalone-structure-with-nx-aia-372"
+    },
+    {
         "title": "Latest Versions Of NgRx v14 & v15 - AiA 367",
         "description": "In this episode, I discuss the latest versions of NgRx v14 and v15, and how to use them in Angular applications. I also discuss future features promised by the NgRx team. ",
         "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/latest-versions-of-ngrx-v14-v15-aia-367"

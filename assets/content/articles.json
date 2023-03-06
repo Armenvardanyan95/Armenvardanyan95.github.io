@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGwCXeph--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tb7l8c9echfssr5s6cg.jpg",
+    "link": "https://dev.to/this-is-angular/angular-misconceptions-4aeb",
+    "title": "Angular Misconceptions",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--FXmgdXnh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qs3a6xzh7xb7twfnu32j.jpg",
     "link": "https://dev.to/this-is-angular/dont-fight-the-framework-angular-edition-38ph",
     "title": "Don't fight the framework: Angular edition",
