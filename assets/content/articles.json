@@ -1,5 +1,12 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--15jr7O5e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkf8m276iurfw47bghpf.jpg",
+    "link": "https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-1-ho7",
+    "title": "Superpowers with Directives and Dependency Injection: Part 1",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGwCXeph--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tb7l8c9echfssr5s6cg.jpg",
     "link": "https://dev.to/this-is-angular/angular-misconceptions-4aeb",
     "title": "Angular Misconceptions",
