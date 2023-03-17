@@ -1,5 +1,18 @@
 [
     {
+        "title": "Should You Know Javascript Before Learning a Framework",
+        "slug": "should-you-know-javascript-before-learning-a-framework",
+        "date": "2023-03-17T10:52:34.117Z",
+        "description": "One of the forever-raging debates is whether people can learn frameworks vefore properly learning JavaScript. Let's tackle this one!",
+        "file": "should-you-know-javascript-before-learning-a-framework.md",
+        "cover": "should-you-know-javascript-before-learning-a-framework.avif",
+        "ogCover": "should-you-know-javascript-before-learning-a-framework.avif",
+        "tags": [
+            "javascript",
+            "learning"
+        ]
+    },
+    {
         "title": "Where is Angular headed",
         "slug": "where-is-angular-headed",
         "date": "2023-01-19T00:00:00.000Z",
