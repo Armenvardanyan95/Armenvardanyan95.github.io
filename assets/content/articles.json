@@ -3,6 +3,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--TfIKzn-D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kyjz3j6ekxtgu4ytysys.jpg",
     "link": "https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja",
     "title": "Superpowers with Directives and DI: Part 3",
+    "date": "Mar 21, 2023",
     "description": "",
     "tags": ["angular"]
   },
@@ -10,6 +11,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--eMIyGtdj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u3yeosaygg672nejw1wm.jpg",
     "link": "https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-2-16ea",
     "title": "Superpowers with Directives and DI: Part 2",
+    "date": "Mar 16, 2023",
     "description": "",
     "tags": ["angular"]
   },
@@ -17,6 +19,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--15jr7O5e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkf8m276iurfw47bghpf.jpg",
     "link": "https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-1-ho7",
     "title": "Superpowers with Directives and DI: Part 1",
+    "date": "Mar 13, 2023",
     "description": "",
     "tags": ["angular"]
   },
@@ -24,6 +27,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGwCXeph--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tb7l8c9echfssr5s6cg.jpg",
     "link": "https://dev.to/this-is-angular/angular-misconceptions-4aeb",
     "title": "Angular Misconceptions",
+    "date": "Mar 6, 2023",
     "description": "",
     "tags": ["angular"]
   },
@@ -31,6 +35,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--FXmgdXnh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qs3a6xzh7xb7twfnu32j.jpg",
     "link": "https://dev.to/this-is-angular/dont-fight-the-framework-angular-edition-38ph",
     "title": "Don't fight the framework: Angular edition",
+    "date": "Feb 16, 2023",
     "description": "",
     "tags": ["angular"]
   },
@@ -38,6 +43,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--c6WeHGT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8n1v1rsbanx5i91iisvv.jpg",
     "link": "https://dev.to/this-is-angular/the-new-ngrx-lf1",
     "title": "The new NgRx",
+    "date": "Feb 7, 2023",
     "description": "",
     "tags": ["angular", "ngrx", "typescript"]
   },
@@ -45,6 +51,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--EoXQ_YAl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aywrvinkc0p1epkvs44t.jpg",
     "link": "https://dev.to/this-is-angular/always-use-inject-2do4",
     "title": "Always use \"inject\"",
+    "date": "Dec 2, 2022",
     "description": "",
     "tags": ["angular"]
   },
@@ -52,6 +59,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--UqUaFAw9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9k8ag91o8kil8qwjmqru.jpg",
     "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-ii-working-with-lists-1j58",
     "title": "NgRx Use Cases, part II: Working with Lists",
+    "date": "Nov 23, 2022",
     "description": "",
     "tags": ["angular", "ngrx", "rxjs"]
   },
@@ -59,6 +67,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--ROr84PzE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4o2gepyqc7pjr5aulnja.jpg",
     "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-i-restricting-access-30lo",
     "title": "NgRx Use Cases, Part I: Restricting Access",
+    "date": "Oct 24, 2022",
     "description": "",
     "tags": ["angular", "ngrx"]
   },
@@ -66,6 +75,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--E8t6gla4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4grsgnwyqdv8p13f6da.jpg",
     "link": "https://dev.to/this-is-angular/documenting-angular-projects-5ob",
     "title": "Documenting Angular projects",
+    "date": "Aug 31, 2022",
     "description": "",
     "tags": ["angular"]
   },
@@ -73,6 +83,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--U3OPriNa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2asf5t5cy9wlmej6qkcn.jpg",
     "link": "https://dev.to/this-is-angular/errors-and-angular-n0b",
     "title": "Errors and Angular",
+    "date": "Jul 11, 2022",
     "description": "",
     "tags": ["angular"]
   },
@@ -80,6 +91,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--uzf0dubG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g0a5s7ra5oxpi9vhr3mr.jpg",
     "link": "https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7",
     "title": "Design Patterns in Angular (part I)",
+    "date": "Jun 15, 2022",
     "tags": ["angular"],
     "description": ""
   },
@@ -87,6 +99,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--C4OTBxiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3p5thm85eeipi7go8dzk.jpg",
     "link": "https://dev.to/this-is-angular/change-detection-without-change-detection-5pa",
     "title": "Change Detection without Change Detection",
+    "date": "May 23, 2022",
     "tags": ["angular"],
     "description": ""
   },
@@ -94,6 +107,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--8nguRxKf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy2tqtfgen1tm60w7ivz.jpg",
     "link": "https://dev.to/this-is-learning/understanding-rxjs-use-cases-part-ii-51ll",
     "title": "Understanding RxJS use cases (part II)",
+    "date": "Apr 27, 2022",
     "tags": ["rxjs"],
     "description": ""
   },
@@ -101,6 +115,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEeffKzH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m49xzvotmqvsuubbehhc.jpg",
     "link": "https://dev.to/this-is-angular/understanding-rxjs-use-cases-part-i-2mfb",
     "title": "Understanding RxJS use cases (part I)",
+    "date": "Apr 7, 2022",
     "tags": ["rxjs", "angular"],
     "description": ""
   },
@@ -108,6 +123,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--RnHKXBOO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/882q3834eamrt3xnraej.jpg",
     "link": "https://dev.to/this-is-angular/manipulating-ngrx-effects-400d",
     "title": "Manipulating NgRx Effects",
+    "date": "Aug 25, 2021",
     "tags": ["ngrx", "angular"],
     "description": ""
   },
@@ -115,6 +131,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--eMtCpARN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/laft9y9on8h2qotpbd8j.jpg",
     "link": "https://dev.to/this-is-angular/how-to-review-angular-code-58aj",
     "title": "How to review Angular code",
+    "date": "Jul 13, 2021",
     "tags": ["angular"],
     "description": ""
   },
@@ -122,6 +139,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--ul5Wvg-K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1slorbhvxnuwjbuq36ux.png",
     "link": "https://dev.to/this-is-angular/why-you-should-definitely-use-ngrx-2pf2",
     "title": "Why you should definitely use NgRx Store",
+    "date": "May 3, 2021",
     "tags": ["angular", "ngrx"],
     "description": ""
   },
@@ -129,6 +147,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--x8tGjczj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nywdnrzmxboi82jbw7x6.jpg",
     "link": "https://dev.to/this-is-learning/how-to-write-technical-content-56h5",
     "title": "How to write technical content",
+    "date": "Apr 19, 2021",
     "tags": [],
     "description": ""
   },
@@ -136,6 +155,7 @@
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--sVu4q2CJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfdknypgu5m9jo24wocx.png",
     "link": "https://dev.to/this-is-angular/7-deadly-sins-of-angular-1n2j",
     "title": "7 Deadly Sins of Angular (with Lars Gyrup Brink Nielsen)",
+    "date": "Mar 23, 2021",
     "tags": ["angular"],
     "description": ""
   },
@@ -143,6 +163,7 @@
     "img": "https://images.indepth.dev/images/2021/08/2.jpg",
     "link": "https://indepth.dev/posts/1473/how-oop-is-mistreated-in-angular",
     "title": "How OOP is mistreated in Angular",
+    "date": "Aug 9, 2021",
     "tags": ["angular"],
     "description": ""
   },
@@ -150,6 +171,7 @@
     "img": "https://images.indepth.dev/images/2021/05/3-1.jpg",
     "link": "https://indepth.dev/posts/1456/a-journey-into-ngrx-selectors",
     "title": "A journey into NgRx Selectors",
+    "date": "May 6, 2021",
     "tags": ["angular", "ngrx"],
     "description": ""
   },
@@ -157,6 +179,7 @@
     "img": "https://images.indepth.dev/images/2021/03/NGRX-Best-Practices-1.jpeg",
     "link": "https://indepth.dev/posts/1451/ngrx-best-practices-new",
     "title": "NGRX Best Practices",
+    "date": "Mar 31, 2021",
     "tags": ["angular", "ngrx"],
     "description": ""
   },
@@ -164,6 +187,7 @@
     "img": "https://images.indepth.dev/images/2021/03/NGRX-Bad-Practices-1.jpeg",
     "link": "https://indepth.dev/posts/1442/ngrx-bad-practices",
     "title": "NGRX Bad Practices",
+    "date": "Mar 19, 2021",
     "tags": ["angular", "ngrx"],
     "description": ""
   },
@@ -171,6 +195,7 @@
     "img": "https://images.indepth.dev/images/2021/02/How-to-refactor-an-Angular-codebase1.jpg",
     "link": "https://indepth.dev/posts/1425/how-to-refactor-an-angular-codebase",
     "title": "How to refactor an Angular codebase",
+    "date": "Feb 15, 2021",
     "tags": ["angular"],
     "description": ""
   },
@@ -178,6 +203,7 @@
     "img": "https://images.indepth.dev/images/2021/01/RxJS-in-Angular_-Part-III.png",
     "link": "https://indepth.dev/posts/1364/rxjs-in-angular",
     "title": "RxJS in Angular: Part III",
+    "date": "Jan 21, 2021",
     "tags": ["angular", "rxjs"],
     "description": ""
   },
@@ -185,6 +211,7 @@
     "img": "https://images.indepth.dev/images/2021/01/RxJS-in-Angular_-Part-II.png",
     "link": "https://indepth.dev/posts/1316/rxjs-in-angular-part-ii",
     "title": "RxJS in Angular: Part II",
+    "date": "Aug 18, 2020",
     "tags": ["angular", "rxjs"],
     "description": ""
   },
@@ -192,6 +219,7 @@
     "img": "https://images.indepth.dev/images/2021/01/RxJS_-The-Unexpected.png",
     "link": "https://indepth.dev/posts/1292/rxjs-the-unexpected",
     "title": "RxJS: The Unexpected",
+    "date": "Jun 25, 2020",
     "tags": ["rxjs"],
     "description": ""
   },
@@ -199,6 +227,7 @@
     "img": "https://images.indepth.dev/images/2021/01/Angular_-The-Unexpected.png",
     "link": "https://indepth.dev/posts/1281/angular-the-unexpected",
     "title": "Angular: The Unexpected",
+    "date": "May 29, 2020",
     "tags": ["angular"],
     "description": ""
   },
@@ -206,6 +235,7 @@
     "img": "https://images.indepth.dev/images/2020/04/angular-3-logo.png",
     "link": "https://indepth.dev/posts/1224/angular-forms-useful-tips",
     "title": "Angular Forms: Useful Tips",
+    "date": "Apr 21, 2020",
     "tags": ["angular"],
     "description": ""
   },
@@ -213,6 +243,7 @@
     "img": "https://images.indepth.dev/images/2020/03/blog-rangle-rxjs-if-operator-1.gif",
     "link": "https://indepth.dev/posts/1196/rxjs-for-await-what",
     "title": "Rxjs + For + Await… What?",
+    "date": "Mar 30, 2020",
     "tags": ["rxjs"],
     "description": ""
   },
@@ -220,6 +251,7 @@
     "img": "https://images.indepth.dev/images/2020/03/picturemessage_vbowhppf.gbk-1.png",
     "link": "https://indepth.dev/posts/1189/angular-bad-practices-revisited",
     "title": "Angular Bad Practices: Revisited",
+    "date": "Mar 26, 2020",
     "tags": ["angular"],
     "description": ""
   },
@@ -227,6 +259,7 @@
     "img": "https://images.indepth.dev/images/2021/01/RxJS-in-Angular_-Part-I.png",
     "link": "https://indepth.dev/posts/1162/rxjs-in-angular-part-1",
     "title": "RxJS in Angular: Part I",
+    "date": "Feb 27, 2020",
     "tags": ["angular", "rxjs"],
     "description": ""
   },
@@ -234,6 +267,7 @@
     "img": "https://images.indepth.dev/images/2021/01/How-not-to-trick-TypeScript-compiler-and-not-be-tricked-by-it.png",
     "link": "https://indepth.dev/posts/1150/how-not-to-trick-typescript-compiler-and-not-be-tricked-by-it",
     "title": "How not to trick TypeScript compiler and not be tricked by it",
+    "date": "Feb 21, 2020",
     "tags": ["typescript"],
     "description": ""
   },
@@ -241,6 +275,7 @@
     "img": "https://images.indepth.dev/images/2020/02/1_93RDyUE-i4nD3w-Np4265Q.png",
     "link": "https://indepth.dev/posts/1116/angular-web-components-a-complete-guide",
     "title": "Angular + Web Components: a complete guide",
+    "date": "Feb 6, 2020",
     "tags": ["angular"],
     "description": ""
   },
@@ -248,6 +283,7 @@
     "img": "https://images.indepth.dev/images/2021/03/Rx.js-Operators--Part-II.png",
     "link": "https://indepth.dev/posts/1445/rx-js-operators-part-ii",
     "title": "Rx.js Operators, Part II",
+    "date": "Dec 24, 2019",
     "tags": ["rxjs"],
     "description": ""
   }
