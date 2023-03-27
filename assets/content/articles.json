@@ -1,5 +1,13 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--6p60KG96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2828nsr81cdd91kkcw5k.jpg",
+    "link": "https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-4-2gi8",
+    "title": "Superpowers with Directives and DI: Part 4",
+    "date": "Mar 27, 2023",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--TfIKzn-D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kyjz3j6ekxtgu4ytysys.jpg",
     "link": "https://dev.to/this-is-angular/superpowers-with-directives-and-dependency-injection-part-3-18ja",
     "title": "Superpowers with Directives and DI: Part 3",
