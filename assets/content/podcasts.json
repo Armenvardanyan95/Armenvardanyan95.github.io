@@ -1,5 +1,13 @@
 [
     {
+        "title": "Mobile Development with Angular, Capacitor, and Ionic - AiA 378",
+        "description": "In this episode, we discuss Ionic + Capacitor - a popular approach for building mobile apps using Angular seamlessly with our guest, Simon Grimm ",
+        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/b91c0e60-e0ce-4eb0-90c6-fe00da7bacfb",
+        "image": "ionic.jpg",
+        "date": "Apr 13, 2023",
+        "tags": ["angular", "ionic", "capacitor"]
+    },
+    {
         "title": "Signals, the Future of Reactive Programming in Angular - AiA 377",
         "description": "In this episode, we discuss Signals - the new reactive primitive that is about to drop in Angular, how it works, what is the difference between Signals and RxJS, and what it all means for the future of front-end development in Angular ",
         "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/b91c0e60-e0ce-4eb0-90c6-fe00da7bacfb",
