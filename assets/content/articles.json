@@ -1,5 +1,13 @@
 [
   {
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--kQi4NucI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jlk8936pyh6dw1kapsd4.jpg",
+    "link": "https://dev.to/this-is-angular/signals-what-this-means-for-ngrx-eho",
+    "title": "Signals: what this means for NgRx",
+    "date": "Apr 17, 2023",
+    "description": "",
+    "tags": ["angular", "ngrx", "rxjs"]
+  },
+  {
     "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--VaG9N9dA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8kluu7ah0j7l2yxbxma.jpg",
     "link": "https://dev.to/armandotrue/superpowers-with-directives-and-dependency-injection-part-5-29ff",
     "title": "Superpowers with Directives and DI: Part 5",
