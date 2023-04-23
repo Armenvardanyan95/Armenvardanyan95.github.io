@@ -1,7 +1,13 @@
 [
     {
+        "title": "The Future of Angular",
+        "description": "During the JSSummit Armenia 2023 I talked at length about recent changes in Angular (v14 and v15), upcoming new features like signals (v16) and a future for the framework beyond that (talk in Armenian)",
+        "link": "https://www.youtube.com/watch?v=W2LJkPh9n4I&ab_channel=JavaScriptArmenia",
+        "tags": ["angular"]
+    },
+    {
         "title": "Why you should definitely use NgRx?",
-        "description": "During the JSConf Armenia 2021 I had a talk about using NgRx in Angular applications, how to add NgRx to an existing Angular app, what are the pros and cons of state management, what are the core important concepts ad why I think NgRx can be a good solution for lots of developers (talk in Armenian)",
+        "description": "During the JSConf Armenia 2021 I had a talk about using NgRx in Angular applications, how to add NgRx to an existing Angular app, what are the pros and cons of state management, what are the core important concepts and why I think NgRx can be a good solution for lots of developers (talk in Armenian)",
         "link": "https://www.youtube.com/embed/NkqAboxA6aw",
         "tags": ["angular", "ngrx"]
     },
