@@ -2,7 +2,7 @@
     {
         "title": "The Future of Angular",
         "description": "During the JSSummit Armenia 2023 I talked at length about recent changes in Angular (v14 and v15), upcoming new features like signals (v16) and a future for the framework beyond that (talk in Armenian)",
-        "link": "https://www.youtube.com/watch?v=W2LJkPh9n4I&ab_channel=JavaScriptArmenia",
+        "link": "https://www.youtube.com/embed/W2LJkPh9n4I",
         "tags": ["angular"]
     },
     {
