@@ -1,8 +1,16 @@
 [
     {
+        "title": "Advanced Patterns with Angular Directives Part 2 - AiA 381",
+        "description": "In this episode, we continue discussing my recent series of articles about directives, diving deep into other important use cases",
+        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/advanced-patterns-with-angular-directives-part-2-aia-381",
+        "image": "directives.jpg",
+        "date": "May 18, 2023",
+        "tags": ["angular"]
+    },
+    {
         "title": "Advanced Patterns with Angular Directives - AiA 379",
-        "description": "In this episode, we focus on my recent series of articles about directives and different use cases of which Anmgular developers might be unuaware",
-        "link": "",
+        "description": "In this episode, we focus on my recent series of articles about directives and different use cases of which Angular developers might be unuaware",
+        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/advanced-patterns-with-angular-directives-aia-379",
         "image": "directives.jpg",
         "date": "Apr 20, 2023",
         "tags": ["angular"]
