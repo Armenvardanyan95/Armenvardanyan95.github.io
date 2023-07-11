@@ -1,91 +1,99 @@
 [
-    {
-        "title": "Advanced Patterns with Angular Directives Part 2 - AiA 381",
-        "description": "In this episode, we continue discussing my recent series of articles about directives, diving deep into other important use cases",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/advanced-patterns-with-angular-directives-part-2-aia-381",
-        "image": "directives.jpg",
-        "date": "May 18, 2023",
-        "tags": ["angular"]
-    },
-    {
-        "title": "Advanced Patterns with Angular Directives - AiA 379",
-        "description": "In this episode, we focus on my recent series of articles about directives and different use cases of which Angular developers might be unuaware",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/advanced-patterns-with-angular-directives-aia-379",
-        "image": "directives.jpg",
-        "date": "Apr 20, 2023",
-        "tags": ["angular"]
-    },
-    {
-        "title": "Mobile Development with Angular, Capacitor, and Ionic - AiA 378",
-        "description": "In this episode, we discuss Ionic + Capacitor - a popular approach for building mobile apps using Angular seamlessly with our guest, Simon Grimm ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/mobile-development-with-angular-capacitor-and-ionic-aia-378",
-        "image": "ionic.jpg",
-        "date": "Apr 13, 2023",
-        "tags": ["angular", "ionic", "capacitor"]
-    },
-    {
-        "title": "Signals, the Future of Reactive Programming in Angular - AiA 377",
-        "description": "In this episode, we discuss Signals - the new reactive primitive that is about to drop in Angular, how it works, what is the difference between Signals and RxJS, and what it all means for the future of front-end development in Angular ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/b91c0e60-e0ce-4eb0-90c6-fe00da7bacfb",
-        "image": "signals.jpg",
-        "date": "Apr 9, 2023",
-        "tags": ["angular", "rxjs"]
-    },
-    {
-        "title": "Standalone Structure with Nx - AiA 372",
-        "description": "In this episode, we discuss Nx, standalone components, and how they can work together with Colum Ferry, a Senior Software Engineer at Nrwl ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/standalone-structure-with-nx-aia-372",
-        "image": "nx.png",
-        "date": "Mar 5, 2023",
-        "tags": ["angular", "nx"] 
-    },
-    {
-        "title": "Latest Versions Of NgRx v14 & v15 - AiA 367",
-        "description": "In this episode, I discuss the latest versions of NgRx v14 and v15, and how to use them in Angular applications. I also discuss future features promised by the NgRx team. ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/latest-versions-of-ngrx-v14-v15-aia-367",
-        "date": "Jan 27, 2023",
-        "tags": ["angular", "ngrx"]
-    },
-    {
-        "title": "Change Detection Method in Angular - AiA 359",
-        "description": "In this episode, I discuss the ability to turn off change detection for certain components and still enjoy \"automatic\" change detection with JS Proxies and the new Angular \"inject\"  function, it's downsides and use cases",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/change-detection-method-in-angular-aia-359",
-        "date": "Nov 22, 2022",
-        "tags": ["angular"]
-    },
-    {
-        "title": "The Problems with the Angular Test-Bed ft. Georgi Parlakov - AiA 334",
-        "description": "With Georgi Parlakov as guest, we discussed situations when developers can bypass using the TestBed module for unit testing, and the approach he developed for unit testing in Angular. ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/the-problems-with-the-angular-test-bed-ft-georgi-parlakov-aia-334",
-        "date": "Dec 9, 2021",
-        "tags": ["angular"]
-    },
-    {
-        "title": "TypeScript Mixins - AiA 327",
-        "description": "This time we conducted a panel discussion and I presented the topic of Mixins - function that return classes to share functionality - and how they can be used in Angular development",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/typescript-mixins-aia-327",
-        "date": "Sep 30, 2022",
-        "tags": ["angular", "typescript"]
-    },
-    {
-        "title": "All Things TypeScript ft. Wycliffe Maina - AiA 326",
-        "description": "With Maina Wycliffe as guest, we discusses TypeScript advanced topics like utility types, type narrowing, how type inference works and more. I participated as host",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/all-things-typescript-ft-wycliffe-maina-aia-326",
-        "date": "Sep 23, 2021",
-        "tags": ["typescript"]
-    },
-    {
-        "title": "RxJS Best Practices in Angular ft. Tomas Trajan - AiA 324",
-        "description": "With Tomas Trajan as a guest we discussed best practices for using RxJS in Angular applications, and also some interesting tricks and approaches for NgRx/RxJS. I participated as a panelist  ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324",
-        "date": "Sep 2, 2021",
-        "tags": ["angular", "rxjs"]
-    },
-    {
-        "title": "Power Up Angular with RXjs with Armen Vardanyan - AiA 308",
-        "description": "This was my very first podcast episode ever. I was a guest on the Adventures in Angular podcast and we discussed RxJS and how to use it in Angular applications. It went well, so later Charles invitied me to be a panelist on the show. ",
-        "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/aia-308-power-up-angular-with-rxjs-with-armen-vardanyan",
-        "date": "Apr 22, 2021",
-        "tags": ["angular", "rxjs"]
-    }
+  {
+    "title": "Goodbye ngIf, Hello Built-in Control Flow - AiA 384",
+    "description": "In this episode, we discuss the latest and hottest development in Angular: the new built-in control flow, and how it will replace ngIf, ngFor, and ngSwitch, and what to expect",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/goodbye-ngif-hello-built-in-control-flow-aia-384",
+    "image": "control-flow.jpg",
+    "date": "Jul 06, 2023",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Advanced Patterns with Angular Directives Part 2 - AiA 381",
+    "description": "In this episode, we continue discussing my recent series of articles about directives, diving deep into other important use cases",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/advanced-patterns-with-angular-directives-part-2-aia-381",
+    "image": "directives.jpg",
+    "date": "May 18, 2023",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Advanced Patterns with Angular Directives - AiA 379",
+    "description": "In this episode, we focus on my recent series of articles about directives and different use cases of which Angular developers might be unuaware",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/advanced-patterns-with-angular-directives-aia-379",
+    "image": "directives.jpg",
+    "date": "Apr 20, 2023",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Mobile Development with Angular, Capacitor, and Ionic - AiA 378",
+    "description": "In this episode, we discuss Ionic + Capacitor - a popular approach for building mobile apps using Angular seamlessly with our guest, Simon Grimm ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/mobile-development-with-angular-capacitor-and-ionic-aia-378",
+    "image": "ionic.jpg",
+    "date": "Apr 13, 2023",
+    "tags": ["angular", "ionic", "capacitor"]
+  },
+  {
+    "title": "Signals, the Future of Reactive Programming in Angular - AiA 377",
+    "description": "In this episode, we discuss Signals - the new reactive primitive that is about to drop in Angular, how it works, what is the difference between Signals and RxJS, and what it all means for the future of front-end development in Angular ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/b91c0e60-e0ce-4eb0-90c6-fe00da7bacfb",
+    "image": "signals.jpg",
+    "date": "Apr 9, 2023",
+    "tags": ["angular", "rxjs"]
+  },
+  {
+    "title": "Standalone Structure with Nx - AiA 372",
+    "description": "In this episode, we discuss Nx, standalone components, and how they can work together with Colum Ferry, a Senior Software Engineer at Nrwl ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/standalone-structure-with-nx-aia-372",
+    "image": "nx.png",
+    "date": "Mar 5, 2023",
+    "tags": ["angular", "nx"]
+  },
+  {
+    "title": "Latest Versions Of NgRx v14 & v15 - AiA 367",
+    "description": "In this episode, I discuss the latest versions of NgRx v14 and v15, and how to use them in Angular applications. I also discuss future features promised by the NgRx team. ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/latest-versions-of-ngrx-v14-v15-aia-367",
+    "date": "Jan 27, 2023",
+    "tags": ["angular", "ngrx"]
+  },
+  {
+    "title": "Change Detection Method in Angular - AiA 359",
+    "description": "In this episode, I discuss the ability to turn off change detection for certain components and still enjoy \"automatic\" change detection with JS Proxies and the new Angular \"inject\"  function, it's downsides and use cases",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/change-detection-method-in-angular-aia-359",
+    "date": "Nov 22, 2022",
+    "tags": ["angular"]
+  },
+  {
+    "title": "The Problems with the Angular Test-Bed ft. Georgi Parlakov - AiA 334",
+    "description": "With Georgi Parlakov as guest, we discussed situations when developers can bypass using the TestBed module for unit testing, and the approach he developed for unit testing in Angular. ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/the-problems-with-the-angular-test-bed-ft-georgi-parlakov-aia-334",
+    "date": "Dec 9, 2021",
+    "tags": ["angular"]
+  },
+  {
+    "title": "TypeScript Mixins - AiA 327",
+    "description": "This time we conducted a panel discussion and I presented the topic of Mixins - function that return classes to share functionality - and how they can be used in Angular development",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/typescript-mixins-aia-327",
+    "date": "Sep 30, 2022",
+    "tags": ["angular", "typescript"]
+  },
+  {
+    "title": "All Things TypeScript ft. Wycliffe Maina - AiA 326",
+    "description": "With Maina Wycliffe as guest, we discusses TypeScript advanced topics like utility types, type narrowing, how type inference works and more. I participated as host",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/all-things-typescript-ft-wycliffe-maina-aia-326",
+    "date": "Sep 23, 2021",
+    "tags": ["typescript"]
+  },
+  {
+    "title": "RxJS Best Practices in Angular ft. Tomas Trajan - AiA 324",
+    "description": "With Tomas Trajan as a guest we discussed best practices for using RxJS in Angular applications, and also some interesting tricks and approaches for NgRx/RxJS. I participated as a panelist  ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/rxjs-best-practices-in-angular-ft-tomas-trajan-aia-324",
+    "date": "Sep 2, 2021",
+    "tags": ["angular", "rxjs"]
+  },
+  {
+    "title": "Power Up Angular with RXjs with Armen Vardanyan - AiA 308",
+    "description": "This was my very first podcast episode ever. I was a guest on the Adventures in Angular podcast and we discussed RxJS and how to use it in Angular applications. It went well, so later Charles invitied me to be a panelist on the show. ",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/aia-308-power-up-angular-with-rxjs-with-armen-vardanyan",
+    "date": "Apr 22, 2021",
+    "tags": ["angular", "rxjs"]
+  }
 ]
