@@ -1,5 +1,13 @@
 [
   {
+    "title": "Upgrading an Enterprise App to Angular 16 - AiA 385",
+    "description": "In this episode, we meet with José Ignacio Santa Cruz to discuss upgrading Angular projects to version 16, common pitfalls, what best to know, and his personal experience with updating enterprise applications",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/upgrading-an-enterprise-app-to-angular-16-aia-385",
+    "image": "upgrade.jpg",
+    "date": "Jul 21, 2023",
+    "tags": ["angular"]
+  },
+  {
     "title": "Goodbye ngIf, Hello Built-in Control Flow - AiA 384",
     "description": "In this episode, we discuss the latest and hottest development in Angular: the new built-in control flow, and how it will replace ngIf, ngFor, and ngSwitch, and what to expect",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/goodbye-ngif-hello-built-in-control-flow-aia-384",
