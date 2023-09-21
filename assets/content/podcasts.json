@@ -1,5 +1,13 @@
 [
   {
+    "title": "Angular Signals VS RxJS - AiA 389",
+    "description": "In this episode, we discuss how signals and RxJS Observables interoperate, when yo use which, whether signals will replace RxJS completely, and what are some common pitfalls",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/angular-signals-vs-rxjs-aia-389",
+    "image": "signals-vs-rxjs.jpeg",
+    "date": "Sep 07, 2023",
+    "tags": ["angular", "rxjs"]
+  },
+  {
     "title": "Upgrading an Enterprise App to Angular 16 - AiA 385",
     "description": "In this episode, we meet with José Ignacio Santa Cruz to discuss upgrading Angular projects to version 16, common pitfalls, what best to know, and his personal experience with updating enterprise applications",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/upgrading-an-enterprise-app-to-angular-16-aia-385",
