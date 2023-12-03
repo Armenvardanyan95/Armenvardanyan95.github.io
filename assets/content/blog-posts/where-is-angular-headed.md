@@ -10,7 +10,7 @@ Here is a bunch of changes introduced in the releases [14.0.0](https://blog.angu
 - Typed Forms
 - `inject` function
 - Function based guards and so on
-- Better stack sraces
+- Better stack traces
 - And much more
 
 While in general most of the changes are standard things that the community has been asking for a long time, there are a couple of things that are a bit more interesting. Mainly here the `inject` function is of particular interest.
