@@ -1,7 +1,15 @@
 [
   {
+    "title": "Server-Side Rendering in Angular 17 - AiA 397",
+    "description": "In this episode, we discuss server-side rendering in general, why use it, ghow to implement it in Angular, what v17 brought us in terms of SSR and client-side hydration, and what to expect next",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/server-side-rendering-in-angular-17-aia-397",
+    "image": "ssr.jpeg",
+    "date": "Sep 07, 2023",
+    "tags": ["angular"]
+  },
+  {
     "title": "Angular Signals VS RxJS - AiA 389",
-    "description": "In this episode, we discuss how signals and RxJS Observables interoperate, when yo use which, whether signals will replace RxJS completely, and what are some common pitfalls",
+    "description": "In this episode, we discuss how signals and RxJS Observables interoperate, when to use which, whether signals will replace RxJS completely, and what are some common pitfalls",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/angular-signals-vs-rxjs-aia-389",
     "image": "signals-vs-rxjs.jpeg",
     "date": "Sep 07, 2023",
