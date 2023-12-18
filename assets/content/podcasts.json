@@ -1,10 +1,18 @@
 [
   {
+    "title": "Migrating to New Angular Features - AiA 398",
+    "description": "In this episode, we tackle converting components to standalones using the Angular schematic. Dive into migration challenges and embrace the new control flow syntax.",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/migrating-to-new-angular-features-aia-398",
+    "image": "migrating-to-new-features.jpg",
+    "date": "Dec 14, 2023",
+    "tags": ["angular"]
+  },
+  {
     "title": "Server-Side Rendering in Angular 17 - AiA 397",
     "description": "In this episode, we discuss server-side rendering in general, why use it, ghow to implement it in Angular, what v17 brought us in terms of SSR and client-side hydration, and what to expect next",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/server-side-rendering-in-angular-17-aia-397",
     "image": "ssr.jpeg",
-    "date": "Sep 07, 2023",
+    "date": "Dec 07, 2023",
     "tags": ["angular"]
   },
   {
