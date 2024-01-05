@@ -1,5 +1,13 @@
 [
   {
+    "title": "Signal-Based Stores in NgRx v17 - AiA 399",
+    "description": "In this episode, we dive deep into the ever-evolving world of Angular development and the latest developments in the NGRX framework. We explore the introduction of version 17 of NGRX and the shift towards fully signal-based stores.",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/signal-based-stores-in-ngrx-v17-aia-399",
+    "image": "ngrx-v17.jpg",
+    "date": "Dec 21, 2023",
+    "tags": ["angular", "ngrx"]
+  },
+  {
     "title": "Migrating to New Angular Features - AiA 398",
     "description": "In this episode, we tackle converting components to standalones using the Angular schematic. Dive into migration challenges and embrace the new control flow syntax.",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/migrating-to-new-angular-features-aia-398",
