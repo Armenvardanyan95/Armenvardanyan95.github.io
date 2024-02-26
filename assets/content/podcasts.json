@@ -1,5 +1,13 @@
 [
   {
+    "title": "Revolutionizing Angular Development with 𝗥𝘅𝑓𝑥 - AIA 405",
+    "description": "In this episode, together with Dean Radcliffe, we discussed his open-source library Rxfx, how it helps when dealing with complex RxJS scenarios and how to integrate it within Angular applications",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/revolutionizing-angular-development-with-aia-405",
+    "image": "default-podcast.jpeg",
+    "date": "Feb 22, 2024",
+    "tags": ["angular", "rxjs"]
+  },
+  {
     "title": "Signal-Based Stores in NgRx v17 - AiA 399",
     "description": "In this episode, we dive deep into the ever-evolving world of Angular development and the latest developments in the NGRX framework. We explore the introduction of version 17 of NGRX and the shift towards fully signal-based stores.",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/signal-based-stores-in-ngrx-v17-aia-399",
