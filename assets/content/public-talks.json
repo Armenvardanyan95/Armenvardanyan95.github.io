@@ -1,5 +1,23 @@
 [
   {
+    "title": "Dependency Injection in JavaScript Frameworks",
+    "description": "During the JSConf Armenia 2024, I talked about dependency injection in JavaScript frameworks, and how it is different from Angular",
+    "link": "https://www.youtube.com/embed/H3PSSpLArpg?si=KWmsKxjlO0WD3kJ0",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Superpowers of Angular Directives",
+    "description": "During the This is Learning Conf, I summed up my article series on Angular directives",
+    "link": "https://www.youtube.com/embed/04fcqC8Ghjc?si=r2V38dHbk5m1zQe1",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Building the most performant web applications with Angular",
+    "description": "During JSSummit Armenia 2024, I talked about Angular performance issues, and several tips on how to improve it",
+    "link": "https://www.youtube.com/embed/-DwnENU6cwI?si=hwYgvUeO3e929cxh",
+    "tags": ["angular"]
+  },
+  {
     "title": "Signalling a new future for Angular",
     "description": "At DevFest Yerevan 2023 I talked in depth about signals in Angular (v16), why we need them, what are they going to change, how to use them, and long-awaited future developments like zoneless applications (talk in English)",
     "link": "https://www.youtube.com/embed/WDGvcBhKtZo?si=52gfIA6pzMsFxzCo",
