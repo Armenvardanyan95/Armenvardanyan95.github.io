@@ -1,5 +1,21 @@
 [
   {
+    "img": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faho42yclorzgt04zoq5n.jpg",
+    "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-iii-decision-making-8go",
+    "title": "NgRx Use Cases, Part III: Decision-making",
+    "date": "Aug 15, 2024",
+    "description": "",
+    "tags": ["angular", "ngrx"]
+  },
+  {
+    "img": "https://www.angularspace.com/content/images/size/w1075h650/2024/08/angularspacethumb-erick-2-6.jpg",
+    "link": "https://www.angularspace.com/mega-article-superpowers-with-directives-and-dependency-injection/",
+    "title": "Superpowers with Directives and Dependency Injection",
+    "date": "Aug 8, 2024",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp5q1s69cmes0gqo14hu.jpg",
     "link": "https://dev.to/this-is-angular/signals-the-do-s-and-the-dont-s-40fk",
     "title": "Signals: the Do-s and the Don't-s",
