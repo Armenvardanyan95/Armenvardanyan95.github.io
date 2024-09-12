@@ -1,5 +1,17 @@
 [
     {
+        "title": "Component Authoring Format",
+        "slug": "authoring-format",
+        "date": "2024-09-12T10:52:34.117Z",
+        "description": "Recently, the debate around Angular's component authoring format gained renewed traction again. Let's have a takedown and understand what options exist, and what I think would be the best for the framework we love.",
+        "file": "authoring-format.md",
+        "cover": "sfcs.avif",
+        "ogCover": "sfcs.avif",
+        "tags": [
+            "angular"
+        ]
+    },
+    {
         "title": "Should You Know Javascript Before Learning a Framework",
         "slug": "should-you-know-javascript-before-learning-a-framework",
         "date": "2023-03-17T10:52:34.117Z",
