@@ -1,5 +1,13 @@
 [
   {
+    "title": "Micro Frontends and Zoneless Angular: Bridging Framework Interoperability - AiA 424",
+    "description": "In this episode, together with Rakia Ben Sassi, we explore the complexities and potential benefits of adopting Zoneless Angular and discuss the critical updates in Angular 18, including improved composability for micro frontends and interoperability with other frameworks.",
+    "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/micro-frontends-and-zoneless-angular-bridging-framework-interoperability-aia-424",
+    "image": "default-podcast.jpeg",
+    "date": "Sep 05, 2024",
+    "tags": ["angular"]
+  },
+  {
     "title": "Revolutionizing Angular Development with 𝗥𝘅𝑓𝑥 - AIA 405",
     "description": "In this episode, together with Dean Radcliffe, we discussed his open-source library Rxfx, how it helps when dealing with complex RxJS scenarios and how to integrate it within Angular applications",
     "link": "https://topenddevs.com/podcasts/adventures-in-angular/episodes/revolutionizing-angular-development-with-aia-405",
