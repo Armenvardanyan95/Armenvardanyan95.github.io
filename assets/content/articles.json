@@ -1,5 +1,13 @@
 [
   {
+    "img": "https://www.angularspace.com/content/images/size/w1075h650/2024/09/Screenshot-2024-09-20-at-16.14.23.png",
+    "link": "https://www.angularspace.com/fascinating-dependency-injection/",
+    "title": "Fascinating Dependency Injection",
+    "date": "Sep 20, 2024",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faho42yclorzgt04zoq5n.jpg",
     "link": "https://dev.to/this-is-angular/ngrx-use-cases-part-iii-decision-making-8go",
     "title": "NgRx Use Cases, Part III: Decision-making",
