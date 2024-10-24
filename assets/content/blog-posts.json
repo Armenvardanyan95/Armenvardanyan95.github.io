@@ -1,41 +1,42 @@
 [
-    {
-        "title": "Component Authoring Format",
-        "slug": "authoring-format",
-        "date": "2024-09-12T10:52:34.117Z",
-        "description": "Recently, the debate around Angular's component authoring format gained renewed traction again. Let's have a takedown and understand what options exist, and what I think would be the best for the framework we love.",
-        "file": "authoring-format.md",
-        "cover": "sfcs.avif",
-        "ogCover": "sfcs.avif",
-        "tags": [
-            "angular"
-        ]
-    },
-    {
-        "title": "Should You Know Javascript Before Learning a Framework",
-        "slug": "should-you-know-javascript-before-learning-a-framework",
-        "date": "2023-03-17T10:52:34.117Z",
-        "description": "One of the forever-raging debates is whether people can learn frameworks vefore properly learning JavaScript. Let's tackle this one!",
-        "file": "should-you-know-javascript-before-learning-a-framework.md",
-        "cover": "should-you-know-javascript-before-learning-a-framework.avif",
-        "ogCover": "should-you-know-javascript-before-learning-a-framework.avif",
-        "tags": [
-            "javascript",
-            "learning"
-        ]
-    },
-    {
-        "title": "Where is Angular headed",
-        "slug": "where-is-angular-headed",
-        "date": "2023-01-19T00:00:00.000Z",
-        "description": "With recent developments in the Angular ecosystem, it is now time to review and understand where Angular, and with what approaches does the future of the framework lie.",
-        "file": "where-is-angular-headed.md",
-        "cover": "where-is-angular-headed.avif",
-        "ogCover": "where-is-angular-headed.jpg",
-        "tags": [
-            "angular",
-            "javascript",
-            "typescript"
-        ]
-    }
+  {
+    "title": "Why I switched to template-driven forms",
+    "slug": "why-i-switched-to-template-driven-forms",
+    "date": "2024-10-24T11:01:17.184Z",
+    "description": "I used to love reactive forms. Nowadays... not so much. Let's uncover why template-driven forms might be the new best way to handle user input",
+    "file": "why-i-switched-to-template-driven-forms.md",
+    "cover": "template-driven.avif",
+    "ogCover": "template-driven.avif",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Component Authoring Format",
+    "slug": "authoring-format",
+    "date": "2024-09-12T10:52:34.117Z",
+    "description": "Recently, the debate around Angular's component authoring format gained renewed traction again. Let's have a takedown and understand what options exist, and what I think would be the best for the framework we love.",
+    "file": "authoring-format.md",
+    "cover": "sfcs.avif",
+    "ogCover": "sfcs.avif",
+    "tags": ["angular"]
+  },
+  {
+    "title": "Should You Know Javascript Before Learning a Framework",
+    "slug": "should-you-know-javascript-before-learning-a-framework",
+    "date": "2023-03-17T10:52:34.117Z",
+    "description": "One of the forever-raging debates is whether people can learn frameworks vefore properly learning JavaScript. Let's tackle this one!",
+    "file": "should-you-know-javascript-before-learning-a-framework.md",
+    "cover": "should-you-know-javascript-before-learning-a-framework.avif",
+    "ogCover": "should-you-know-javascript-before-learning-a-framework.avif",
+    "tags": ["javascript", "learning"]
+  },
+  {
+    "title": "Where is Angular headed",
+    "slug": "where-is-angular-headed",
+    "date": "2023-01-19T00:00:00.000Z",
+    "description": "With recent developments in the Angular ecosystem, it is now time to review and understand where Angular, and with what approaches does the future of the framework lie.",
+    "file": "where-is-angular-headed.md",
+    "cover": "where-is-angular-headed.avif",
+    "ogCover": "where-is-angular-headed.jpg",
+    "tags": ["angular", "javascript", "typescript"]
+  }
 ]
