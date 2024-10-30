@@ -1,5 +1,15 @@
 [
   {
+    "title": "Everything we know about LinkedSignal",
+    "slug": "everything-we-know-about-linked-signal",
+    "date": "2024-10-29T11:01:17.184Z",
+    "description": "Of course, almost everyone knows about signals today, and has already come up to the realization that they are still a bit... raw. Here is how it ids going to change",
+    "file": "everything-we-know-about-linked-signal.md",
+    "cover": "linked-signal.jpg",
+    "ogCover": "linked-signal.jpg",
+    "tags": ["angular"]
+  },
+  {
     "title": "Why I switched to template-driven forms",
     "slug": "why-i-switched-to-template-driven-forms",
     "date": "2024-10-24T11:01:17.184Z",

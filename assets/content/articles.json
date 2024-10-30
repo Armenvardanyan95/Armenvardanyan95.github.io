@@ -1,5 +1,13 @@
 [
   {
+    "img": "https://www.angularspace.com/content/images/size/w1075h650/2024/10/angularspacethumb-erick-2-2--6-.jpg",
+    "link": "https://www.angularspace.com/directive-best-practices/",
+    "title": "Directive Best Practices",
+    "date": "Oct 28, 2024",
+    "description": "",
+    "tags": ["angular"]
+  },
+  {
     "img": "https://www.angularspace.com/content/images/size/w1075h650/2024/10/angularspacethumb-erick-2-2--4-.jpg",
     "link": "https://www.angularspace.com/angular-friction-points/",
     "title": "Angular Friction Points",
