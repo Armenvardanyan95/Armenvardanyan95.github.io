@@ -1,12 +1,22 @@
 [
   {
+    "title": "Thoughts on the new style guide RFC",
+    "slug": "thoughts-on-the-new-style-guide-rfc",
+    "date": "2024-11-01T11:01:17.184Z",
+    "description": "In order to improve Angular’s developer experience, the Angular team recently released a Request for Comments (RFC) that introduces a few significant adjustments to Angular’s style guide, the comprehensive document that details the conventional approaches to naming files, classes, functions, and using certain features.",
+    "file": "thoughts-on-the-new-style-guide-rfc.md",
+    "cover": "style-guide.avif",
+    "ogCover": "style-guide.avif",
+    "tags": ["angular"]
+  },
+  {
     "title": "Everything we know about LinkedSignal",
     "slug": "everything-we-know-about-linked-signal",
     "date": "2024-10-29T11:01:17.184Z",
     "description": "Of course, almost everyone knows about signals today, and has already come up to the realization that they are still a bit... raw. Here is how it ids going to change",
     "file": "everything-we-know-about-linked-signal.md",
-    "cover": "linked-signal.jpg",
-    "ogCover": "linked-signal.jpg",
+    "cover": "linked-signal.avif",
+    "ogCover": "linked-signal.avif",
     "tags": ["angular"]
   },
   {

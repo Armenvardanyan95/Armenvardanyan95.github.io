@@ -1,7 +1,7 @@
 Since Angular v16, we have a new reactive primitive called `Signal`. Of course, almost everyone knows about signals today, and has already come up to the realization that they are still a bit... raw.
 
 Usually, when devs encountered a an issue with signals, they just slapped an `effect` to make it work as they wanted. This, of course, is not a very desirable approach. Here is an excerpt from the [Angular documentation](https://angular.dev/guide/signals#use-cases-for-effects):
-![Second paragraph at https://angular.dev/guide/signals#use-cases-for-effects](/assets/content/blog-posts/when-not-to-use-effect.png)
+![Second paragraph at https://angular.dev/guide/signals#use-cases-for-effects](/assets/content/blog-posts/when-not-to-use-effect.avif)
 
 As we can see, Angular itself discourages using `effect` and instead treats it as a very low-level building block, which we should only use in exceptional circumstances.
 
@@ -119,7 +119,7 @@ Because of several (or sometimes even more) signals involve, this might become a
 
 ![Mermaid Flowchart: flowchart TD
     Signal[Some Signal] -->|When the signal changes, linked signals will reset| LinkedSignal(Linked Signal)
-    ManualUpdate[Manual Update] -->|Also updates the linked signal| LinkedSignal](/assets/content/blog-posts/linked-signal-flow.png) 
+    ManualUpdate[Manual Update] -->|Also updates the linked signal| LinkedSignal](/assets/content/blog-posts/linked-signal-flow.avif) 
 
 As we can see, both the source signal and manual updates will change its value, and only the timing of the change will determine which one will be the current result. For instance, initially the linked signal will have the value of the source signal, but after the first manual update, it will have the value of the manual update. Later, if at some point the source signal changes, the linked signal will change to the new value.
 
@@ -129,7 +129,7 @@ Here is another graphic explaining the *lifecycle* of a `linkedSignal`:
     Start[Linked Signal created, value: 1] -->|Manual increment| AfterManual[(Value: 2)]
     AfterManual --> |Manual Increment|AnotherManual[(Value: 3)]
     AnotherManual --> |Source value set to 10|SourceValueChanged[(Value: 10)]
-    SourceValueChanged --> |Manual Increment|YetAnotherManualIncrement[(Value: 11)]](assets/content/blog-posts/linked-signal-lifecycle.png) 
+    SourceValueChanged --> |Manual Increment|YetAnotherManualIncrement[(Value: 11)]](assets/content/blog-posts/linked-signal-lifecycle.avif) 
 
 Hopefully, this can clear everything up in regards to how `linkedSignal` works. Finally, let's take a look at the API of this function, because it has more complex use cases than what we have shown so far.
 
