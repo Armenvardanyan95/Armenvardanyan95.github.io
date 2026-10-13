@@ -1,0 +1,511 @@
+[
+  {
+    "videoId": "7gpcELpjifo",
+    "title": "What's new In Angular 22.2",
+    "date": "2026-10-07",
+    "description": "Since Angular switched to a yearly major release cycle, minor releases seem like major ones! This Wednesday, join me as we discuss Angular 22.2, the latest minor release, which brings some fantastic new features like `@boundary` error boundaries, router resources, and several smaller improvements (`private` fields in templates?!).",
+    "link": "https://www.youtube.com/watch?v=7gpcELpjifo",
+    "embedLink": "https://www.youtube.com/embed/7gpcELpjifo",
+    "thumbnail": "https://i.ytimg.com/vi/7gpcELpjifo/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "0Q_mSX9Y9mk",
+    "title": "Why Web matters for AI",
+    "date": "2026-09-30",
+    "description": "This week, welcome Kenneth Rohde Christiansen from Intel, and a friend of mine to tell us a bit about WebMCP and all the other amazing things that agents will be able to do inside your Angular applications",
+    "link": "https://www.youtube.com/watch?v=0Q_mSX9Y9mk",
+    "embedLink": "https://www.youtube.com/embed/0Q_mSX9Y9mk",
+    "thumbnail": "https://i.ytimg.com/vi/0Q_mSX9Y9mk/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "Ht0g8mROV6M",
+    "title": "What actually is RAG?",
+    "date": "2026-09-02",
+    "description": "\"RAG is dead!\" they proclaim with huge confidence. \"What even is RAG?\" say a lot of people, even seasoned software developers, especially if they have worked in more frontend-oriented roles, as Angular devs have. So, this week, join me as I deconstruct the topic, discuss embedding models, current approaches, and why all of this is a thing to begin with!",
+    "link": "https://www.youtube.com/watch?v=Ht0g8mROV6M",
+    "embedLink": "https://www.youtube.com/embed/Ht0g8mROV6M",
+    "thumbnail": "https://i.ytimg.com/vi/Ht0g8mROV6M/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "Scw5jAnVHo8",
+    "title": "Agentic UI",
+    "date": "2026-08-26",
+    "description": "Okay, I promised some great guests, now I am delivering 😁 This week, Rainer Hahnekamp will return for another round, and not alone! He is joined by Murat Sari, with whom they develop Soverius AI We will talk about agentic UI, and specifically how to get it done in Angular, and many other interesting things!",
+    "link": "https://www.youtube.com/watch?v=Scw5jAnVHo8",
+    "embedLink": "https://www.youtube.com/embed/Scw5jAnVHo8",
+    "thumbnail": "https://i.ytimg.com/vi/Scw5jAnVHo8/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "JI_IwQYnEyU",
+    "title": "Machine Learning for Angular developers",
+    "date": "2026-08-19",
+    "description": "Often, building and maintaining AI agents requires careful evaluation of their work But not many know that this evaluation is usually the same as the one used in training machine learning models. And understanding LLMs becomes much easier when you understand machine learning. So, tomorrow, join me as we talk about the fundamentals of machine learning in easy, accessible language to help everyone on their journey from just better coding agents to actual custom complex agentic systems!",
+    "link": "https://www.youtube.com/watch?v=JI_IwQYnEyU",
+    "embedLink": "https://www.youtube.com/embed/JI_IwQYnEyU",
+    "thumbnail": "https://i.ytimg.com/vi/JI_IwQYnEyU/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "6uFnaLUE_Fg",
+    "title": "State of Angular",
+    "date": "2026-08-12",
+    "description": "We are back! This Wednesday, hop in so we can talk about what went on while the channel was in a bit of a sleep for the past few months - lots of exciting new things happening in Angular!",
+    "link": "https://www.youtube.com/watch?v=6uFnaLUE_Fg",
+    "embedLink": "https://www.youtube.com/embed/6uFnaLUE_Fg",
+    "thumbnail": "https://i.ytimg.com/vi/6uFnaLUE_Fg/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "4MUTRInJ7Lo",
+    "title": "Welcome Angular 22",
+    "date": "2026-06-03",
+    "description": "#Angular 22 is coming! A lot of exciting things are happening, and one of them is having Michael Small on! The very first guest of our streams is back to help us navigate through what changes the new Angular version brings, so tune in today at 4:30 PM UTC!",
+    "link": "https://www.youtube.com/watch?v=4MUTRInJ7Lo",
+    "embedLink": "https://www.youtube.com/embed/4MUTRInJ7Lo",
+    "thumbnail": "https://i.ytimg.com/vi/4MUTRInJ7Lo/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "8Hq89PnsRTk",
+    "title": "NgRx +... AI?",
+    "date": "2026-05-20",
+    "description": "We surely do generate a lot of #NgRx code in our #Angular apps, but using NgRx as the backbone of an AI-powered app or agentic UI? That's new! This Wednesday, join me as we discuss how having a well-defined state management architecture can make adding AI features into any Angular app incredibly easy, with some live-coded examples!",
+    "link": "https://www.youtube.com/watch?v=8Hq89PnsRTk",
+    "embedLink": "https://www.youtube.com/embed/8Hq89PnsRTk",
+    "thumbnail": "https://i.ytimg.com/vi/8Hq89PnsRTk/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai",
+      "ngrx"
+    ]
+  },
+  {
+    "videoId": "6jNPALPO3h8",
+    "title": "What Angular could have been",
+    "date": "2026-05-13",
+    "description": "For many years, some features got proposed, discussed, heavily debated, and fought over on social media, yet some of them never landed... at least for now! So now, in anticipation of v22, let's discuss how Angular could have been, and if any of these features would actually make the framework better!",
+    "link": "https://www.youtube.com/watch?v=6jNPALPO3h8",
+    "embedLink": "https://www.youtube.com/embed/6jNPALPO3h8",
+    "thumbnail": "https://i.ytimg.com/vi/6jNPALPO3h8/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "kD8T-uybF-w",
+    "title": "Going beyond the LLM heavy weights",
+    "date": "2026-05-06",
+    "description": "A lot of times in the past few streams, we went on tangents discussing Open Source LLMs in the context of building apps and coding. So this week, let's just do a discussion on them! Let me walk you through OpenCode, how it compares to other tools, how to set up your environment tailored to #Angular development, and some of my favorite models Join me on Wednesday at 4 PM UTC!",
+    "link": "https://www.youtube.com/watch?v=kD8T-uybF-w",
+    "embedLink": "https://www.youtube.com/embed/kD8T-uybF-w",
+    "thumbnail": "https://i.ytimg.com/vi/kD8T-uybF-w/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "v6yqiehEASg",
+    "title": "Let's talk about ADK again",
+    "date": "2026-04-29",
+    "description": "Time to revisit Google's Agent Development Kit! A while ago, we did a livestream covering the basics of agent-building with ADK. Now, a month later, join me in exploring multi-agent systems, parallelism, and agents that really do solve complex problems efficiently",
+    "link": "https://www.youtube.com/watch?v=v6yqiehEASg",
+    "embedLink": "https://www.youtube.com/embed/v6yqiehEASg",
+    "thumbnail": "https://i.ytimg.com/vi/v6yqiehEASg/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "j-4uD5xkJuk",
+    "title": "Don't forget to test your Angular apps",
+    "date": "2026-04-22",
+    "description": "Many people skip tests, but in this day and age, nothing is more important than having decent testing to cover your back. And if you're unsure how to start, tomorrow's livestream is for you! Together with Younes Jaaidi we will talk about testing Angular apps, available tools, countering AI-generated low-quality code with good tests, and much more!",
+    "link": "https://www.youtube.com/watch?v=j-4uD5xkJuk",
+    "embedLink": "https://www.youtube.com/embed/j-4uD5xkJuk",
+    "thumbnail": "https://i.ytimg.com/vi/j-4uD5xkJuk/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "wlugPtZf0xo",
+    "title": "Do you like Hashbrowns?",
+    "date": "2026-04-15",
+    "description": "This week, join us as I do my best to explore one of the most fascinating libraries I found recently: Hashbrown, which allows us to easily add AI-powered features directly into #Angular apps We will discuss structured outputs, generative UI, and chat functionality, and how all of it comes together right inside Angular components!",
+    "link": "https://www.youtube.com/watch?v=wlugPtZf0xo",
+    "embedLink": "https://www.youtube.com/embed/wlugPtZf0xo",
+    "thumbnail": "https://i.ytimg.com/vi/wlugPtZf0xo/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "LrNueoZXPoM",
+    "title": "Angular and Security",
+    "date": "2026-04-08",
+    "description": "Everything is getting hacked, broken or supply-chain attacked thede days... Some people underestimate how important security can be front-end applications, and with the rise of AI-driven coding, vulnerabilities only seem to explode, so it was only a matter of time until I did a stream about the topic of security in the context of #Angular Join us on the of 8th April, at 6:00 PM UTC to catch up on everything!",
+    "link": "https://www.youtube.com/watch?v=LrNueoZXPoM",
+    "embedLink": "https://www.youtube.com/embed/LrNueoZXPoM",
+    "thumbnail": "https://i.ytimg.com/vi/LrNueoZXPoM/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "2LK4MirpPak",
+    "title": "Angular Freestyle",
+    "date": "2026-04-01",
+    "description": "Angular discussion, free style, no hard topic, let's look at anything about Angular that is of interest to you, so bring your own questions! Anything you ever wondered, I promise to deliver an answer! Wednesday, 5:30 PM UTC",
+    "link": "https://www.youtube.com/watch?v=2LK4MirpPak",
+    "embedLink": "https://www.youtube.com/embed/2LK4MirpPak",
+    "thumbnail": "https://i.ytimg.com/vi/2LK4MirpPak/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "75j_5DvBBNM",
+    "title": "Angular Best practices in 2026",
+    "date": "2026-03-25",
+    "description": "With the rise of AI coding agents, it seems everyone is drowning in, let's say... subpar code. Now, more than ever, best practices are incredibly important, and wiring them into our AI coding tools is a complex, but doable task. Join us on Wednesday evening as we discuss the Angular MCP server, freshly released Angular skills, and what best practices by themselves actually mean, with all the new stuff Angular has been pushing out lately",
+    "link": "https://www.youtube.com/watch?v=75j_5DvBBNM",
+    "embedLink": "https://www.youtube.com/embed/75j_5DvBBNM",
+    "thumbnail": "https://i.ytimg.com/vi/75j_5DvBBNM/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "618dOf9jeew",
+    "title": "Should you try ngxtension?",
+    "date": "2026-03-18",
+    "description": "We have talked about ngxtension, one of the lightweight yet powerful #Angular libraries, on different occasions, and even had two of the core contributors! But I realized we never dedicated a specific episode to exploring this fantastic open source project. So, this Wednesday, March 18th, 4:30 PM UTC, let's correct this oversight and finally have a deep discussion about ngxtension!",
+    "link": "https://www.youtube.com/watch?v=618dOf9jeew",
+    "embedLink": "https://www.youtube.com/embed/618dOf9jeew",
+    "thumbnail": "https://i.ytimg.com/vi/618dOf9jeew/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "nllsnsU-n3g",
+    "title": "Angular Directive Deep Dive",
+    "date": "2026-03-11",
+    "description": "This week, we dedicate a livestream episode to exploring directives: an amazing yet underappreciated Angular topic.",
+    "link": "https://www.youtube.com/watch?v=nllsnsU-n3g",
+    "embedLink": "https://www.youtube.com/embed/nllsnsU-n3g",
+    "thumbnail": "https://i.ytimg.com/vi/nllsnsU-n3g/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "gCoqFuf_Kmg",
+    "title": "What's new in Angular v21.2?",
+    "date": "2026-03-04",
+    "description": "Angular came out with another strong minor this week, and we will be here to discuss what was added, what changed in experimental features like signal forms, and more",
+    "link": "https://www.youtube.com/watch?v=gCoqFuf_Kmg",
+    "embedLink": "https://www.youtube.com/embed/gCoqFuf_Kmg",
+    "thumbnail": "https://i.ytimg.com/vi/gCoqFuf_Kmg/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals"
+    ]
+  },
+  {
+    "videoId": "4nxhR6n6sVA",
+    "title": "Let's talk about ADK",
+    "date": "2026-02-25",
+    "description": "In today's episode, we will take a small detour from Angular and discuss Google's new framework for building AI agents: the Agent Development Kit, what it is, how to use it, and what many possibilities it can open",
+    "link": "https://www.youtube.com/watch?v=4nxhR6n6sVA",
+    "embedLink": "https://www.youtube.com/embed/4nxhR6n6sVA",
+    "thumbnail": "https://i.ytimg.com/vi/4nxhR6n6sVA/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "82GdyNLzXI4",
+    "title": "Angular Router Today",
+    "date": "2026-02-18",
+    "description": "With Andrew Scott from the Angular core team, we will discuss the Angular router and what deep secrets it has, what features you must know, and what awaits it in the future",
+    "link": "https://www.youtube.com/watch?v=82GdyNLzXI4",
+    "embedLink": "https://www.youtube.com/embed/82GdyNLzXI4",
+    "thumbnail": "https://i.ytimg.com/vi/82GdyNLzXI4/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "kzHN43Y8zyc",
+    "title": "What's new in Angular v 21.1?",
+    "date": "2026-02-11",
+    "description": "In this stream, I will quickly explore the 21.1 release of Angular, which, despite being marked as a minor release, contains a lot of fascinating new features!",
+    "link": "https://www.youtube.com/watch?v=kzHN43Y8zyc",
+    "embedLink": "https://www.youtube.com/embed/kzHN43Y8zyc",
+    "thumbnail": "https://i.ytimg.com/vi/kzHN43Y8zyc/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "eTK9Fca_7Vc",
+    "title": "Exploring Angular Open Source",
+    "date": "2026-02-04",
+    "description": "On this stream, we will discuss open source libraries and the state of contributions within the Angular ecosystem together with Santosh Yadav!",
+    "link": "https://www.youtube.com/watch?v=eTK9Fca_7Vc",
+    "embedLink": "https://www.youtube.com/embed/eTK9Fca_7Vc",
+    "thumbnail": "https://i.ytimg.com/vi/eTK9Fca_7Vc/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "gFaThiE6SK0",
+    "title": "Do you know Dependency Injection?",
+    "date": "2026-01-28",
+    "description": "Together with Dmytro Mezhenskyi we will explore my favorite topic in Angular: Dependency Injection, what it is, how it works, and that it might not be as simple as you initially thought and can deliver miracles when you know how to use it",
+    "link": "https://www.youtube.com/watch?v=gFaThiE6SK0",
+    "embedLink": "https://www.youtube.com/embed/gFaThiE6SK0",
+    "thumbnail": "https://i.ytimg.com/vi/gFaThiE6SK0/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "UUhZm52tigQ",
+    "title": "NgRx Signal Store",
+    "date": "2026-01-21",
+    "description": "This week, we are joined by Rainer Hahnekamp, who will help us all understand NgRx Signal Store better. Do not miss if you want to improve your Angular state management skills!",
+    "link": "https://www.youtube.com/watch?v=UUhZm52tigQ",
+    "embedLink": "https://www.youtube.com/embed/UUhZm52tigQ",
+    "thumbnail": "https://i.ytimg.com/vi/UUhZm52tigQ/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals",
+      "ngrx"
+    ]
+  },
+  {
+    "videoId": "pIk4sRCBNfw",
+    "title": "Vibe Coding some Angular",
+    "date": "2026-01-14",
+    "description": "Join me as we explore the many possibilities Claude Opus 4.5 opens for Angular developers. Let's push vibe coding to the limit!",
+    "link": "https://www.youtube.com/watch?v=pIk4sRCBNfw",
+    "embedLink": "https://www.youtube.com/embed/pIk4sRCBNfw",
+    "thumbnail": "https://i.ytimg.com/vi/pIk4sRCBNfw/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "vz4LZAimZBc",
+    "title": "Angular from the Inside",
+    "date": "2026-01-09",
+    "description": "Join me and Matthieu Riegler as we discuss the Angular compiler, internals, and what it takes to add a new feature to Angular!",
+    "link": "https://www.youtube.com/watch?v=vz4LZAimZBc",
+    "embedLink": "https://www.youtube.com/embed/vz4LZAimZBc",
+    "thumbnail": "https://i.ytimg.com/vi/vz4LZAimZBc/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "cbSt-UkYTt0",
+    "title": "RxJS vs Signals",
+    "date": "2025-12-10",
+    "description": "This week, let's talk about RxJS and answer some burning questions I keep seeing Angular devs ask - Is RxJS no longer needed? - Should we replace Observables with Signals? - If we use both, how do we understand when to reach out for what?",
+    "link": "https://www.youtube.com/watch?v=cbSt-UkYTt0",
+    "embedLink": "https://www.youtube.com/embed/cbSt-UkYTt0",
+    "thumbnail": "https://i.ytimg.com/vi/cbSt-UkYTt0/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals",
+      "rxjs"
+    ]
+  },
+  {
+    "videoId": "hfyuzgPGFwU",
+    "title": "Pushing Zoneless to the Limit",
+    "date": "2025-11-26",
+    "description": "Exploring Zone.js, what it did for Angular, and why we got rid of it",
+    "link": "https://www.youtube.com/watch?v=hfyuzgPGFwU",
+    "embedLink": "https://www.youtube.com/embed/hfyuzgPGFwU",
+    "thumbnail": "https://i.ytimg.com/vi/hfyuzgPGFwU/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "Iexh0dBVOzE",
+    "title": "Trying out Angular 21",
+    "date": "2025-11-21",
+    "description": "Join us on Niovemer 21st at 4 PM UTC as we discover what Angular v21 has to offer, with a bonus: all coding in Google's new Antigravity editor!",
+    "link": "https://www.youtube.com/watch?v=Iexh0dBVOzE",
+    "embedLink": "https://www.youtube.com/embed/Iexh0dBVOzE",
+    "thumbnail": "https://i.ytimg.com/vi/Iexh0dBVOzE/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "u9idznHI6Kc",
+    "title": "Hands on: Generative UI With Angular + Gemini",
+    "date": "2025-11-12",
+    "description": "Watch Armen build Generative UIs with Angular + Gemini Live!! Bring your requests & questions + have fun :)",
+    "link": "https://www.youtube.com/watch?v=u9idznHI6Kc",
+    "embedLink": "https://www.youtube.com/embed/u9idznHI6Kc",
+    "thumbnail": "https://i.ytimg.com/vi/u9idznHI6Kc/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai"
+    ]
+  },
+  {
+    "videoId": "K-fFywW1z5A",
+    "title": "Modern State Management in Angular",
+    "date": "2025-11-05",
+    "description": "Join us for Modern State Management in Angular with Roberto Heckers - an Angular specialist since the AngularJS days and author of Effective Angular (Packt). 🗓️ November 5 🕔 5 PM UTC 👤 Host: Armen Vardanyan 💬 Guest: Roberto Heckers We’ll explore how to manage state effectively in modern Angular apps - from Signals to RxJS and scalable patterns for enterprise projects. 🧩 Agenda Highlights 🧩 - What “state management” really means in Angular - Signals, RxJS, NgRx - when to use what - Real-world architecture lessons from enterprise apps - Common anti-patterns and how to avoid them - Insights from Effective Angular",
+    "link": "https://www.youtube.com/watch?v=K-fFywW1z5A",
+    "embedLink": "https://www.youtube.com/embed/K-fFywW1z5A",
+    "thumbnail": "https://i.ytimg.com/vi/K-fFywW1z5A/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals",
+      "ngrx",
+      "rxjs"
+    ]
+  },
+  {
+    "videoId": "iKWKCeT99LI",
+    "title": "Exploring the Future of PrimeNG with the Founder",
+    "date": "2025-10-22",
+    "description": "🔥 Next up on Angular Space Meetup! Armen Vardanyan is chatting with Cagatay Civici the Founder of PrimeNG 🎙️ 📅 October 22 | 🕔 4 PM UTC We’ll explore: 💡 How PrimeNG started ⚙️ Differences vs Angular Material 🌍 PrimeVue & PrimeReact 🚀 The roadmap ahead",
+    "link": "https://www.youtube.com/watch?v=iKWKCeT99LI",
+    "embedLink": "https://www.youtube.com/embed/iKWKCeT99LI",
+    "thumbnail": "https://i.ytimg.com/vi/iKWKCeT99LI/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "vOz5IodSayA",
+    "title": "Let's talk TaigaUI - a Top-Tier Component Library",
+    "date": "2025-10-15",
+    "description": "What makes and breaks a great #Angular component library? Why do some feel effortless to use while others fight you at every step? And what makes Taiga UI a stand out among giants like PrimeNG and Angular Material? Time to peek inside the mind of someone who built one of the best. That’s the theme of our next Angular Space Meetup: “Let's talk TaigaUI - a Top-Tier Component Library” 📅 October 15, 4 PM UTC 🎙 Host: Armen Vardanyan 🎤 Guest: Alex Inkin We’ll cover: ✅ What defines a good component library architecture ✅ How Taiga UI balances flexibility, accessibility & performance ✅ The design principles behind its clean API ✅ Lessons for teams building or scaling their own libraries",
+    "link": "https://www.youtube.com/watch?v=vOz5IodSayA",
+    "embedLink": "https://www.youtube.com/embed/vOz5IodSayA",
+    "thumbnail": "https://i.ytimg.com/vi/vOz5IodSayA/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "qdk_HpyYECE",
+    "title": "Deep Dive: Signal Forms! Live Coding Session",
+    "date": "2025-10-08",
+    "description": "Last stream ended on a bit of a cliffhanger… 👀 But we’re far from done exploring the world of Angular Signal Forms! Join Armen tomorrow at 5 PM UTC as he dives deeper - tackling more complex, real-world scenarios and pushing Signal Forms to their limits. Let’s see just how powerful this new reactive approach can get! ⚡",
+    "link": "https://www.youtube.com/watch?v=qdk_HpyYECE",
+    "embedLink": "https://www.youtube.com/embed/qdk_HpyYECE",
+    "thumbnail": "https://i.ytimg.com/vi/qdk_HpyYECE/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals"
+    ]
+  },
+  {
+    "videoId": "4EGh0_FS9KY",
+    "title": "Hands on: Signal Forms! Live Coding Session w/ Armen Vardanyan",
+    "date": "2025-10-01",
+    "description": "Angular Space TV Presents!! Armen Vardanyan is going to dive in to Singla Forms and how these currently work :) It's going to be a live coding session! Enjoy.",
+    "link": "https://www.youtube.com/watch?v=4EGh0_FS9KY",
+    "embedLink": "https://www.youtube.com/embed/4EGh0_FS9KY",
+    "thumbnail": "https://i.ytimg.com/vi/4EGh0_FS9KY/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals"
+    ]
+  },
+  {
+    "videoId": "wD0c3gMrGtA",
+    "title": "Modern Angular Architecture Challenges",
+    "date": "2025-09-17",
+    "description": "Solid architecture is the backbone of scalable Angular apps. But keeping it modular, enforceable, and future-proof? That’s where the real challenges begin. ⚡️ From modularity to smart vs. dumb components - and the tooling that makes it all stick - we’re diving deep into the real-world Angular architecture challenges. That’s the theme of our next Angular Space Meetup: “Modern Angular Architecture Challenges” 📅 September 17, 5 PM UTC 🎙 Host: Armen Vardanyan 🎤 Guest: Rainer Hahnekamp We’ll cover: ✅ Why modularity is non-negotiable in large Angular projects ✅ The role of Domain-Driven Design on the frontend ✅ Smart vs. dumb components - do they still matter? ✅ Tooling like Sheriff & Nx to enforce good practices",
+    "link": "https://www.youtube.com/watch?v=wD0c3gMrGtA",
+    "embedLink": "https://www.youtube.com/embed/wD0c3gMrGtA",
+    "thumbnail": "https://i.ytimg.com/vi/wD0c3gMrGtA/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "5tQE717jbNY",
+    "title": "Migrating a UI Library to Angular Signals",
+    "date": "2025-09-12",
+    "description": "Angular Signals promised a simpler reactive model and better performance. Tomas Trajan migrated entire UI library to Signals and only got bitten twice. 🐍 But what really happens when you go all-in on Signals? 🤔 That’s the theme of our next Angular Space Meetup: “Migrating a UI Library to Signals: Lessons, Pitfalls & Performance Wins.” 📅 September 10, 5 PM UTC 🎙 Host: Armen Vardanyan 🎤 Guest: Tomas Trajan We’ll cover: ✅ Effect timing & afterRender gotchas ✅ How Signals boosted SSR & hydration performance ✅ Why CDK instead of wrapping 3rd-party libs ✅ The real benefits of going all-in on Signals",
+    "link": "https://www.youtube.com/watch?v=5tQE717jbNY",
+    "embedLink": "https://www.youtube.com/embed/5tQE717jbNY",
+    "thumbnail": "https://i.ytimg.com/vi/5tQE717jbNY/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals"
+    ]
+  },
+  {
+    "videoId": "ohGT76dmYAw",
+    "title": "The Hidden Costs of Angular Updates",
+    "date": "2025-09-03",
+    "description": "Angular gives us a smooth developer experience when upgrading projects with ng update. It updates dependency versions, runs migrations, and even refactors parts of our codebase automatically. But are we done after running the command? 🤔 That’s the theme of our next Angular Space Meetup: “The Hidden Costs of Angular Updates.” 📅 September 3, 4 PM UTC 🎙 Host: Armen Vardanyan 🎤 Guest: Gérôme Grignon We’ll cover: ✅ What ng update does well ✅ Where the hidden costs appear in real projects ✅ Refactoring & dependency pitfalls ✅ How upgrades affect teams & long-term maintainability",
+    "link": "https://www.youtube.com/watch?v=ohGT76dmYAw",
+    "embedLink": "https://www.youtube.com/embed/ohGT76dmYAw",
+    "thumbnail": "https://i.ytimg.com/vi/ohGT76dmYAw/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
+    "videoId": "B_0ltFmQaao",
+    "title": "The Future of Angular Signals",
+    "date": "2025-09-01",
+    "description": "Signals are rewriting how we think about reactivity in Angular → From v16 signal/computed/effect → to stabilized resources in v20 → to upcoming forms & router improvements… the journey has just begun. That’s why our first Angular Space Meetup is all about “The Future of Signals.” 📅 August 27, 5 PM UTC 🎙 Host: Armen Vardanyan – Angular GDE, author of Modern Angular, One of the Top Angular Space Authors @Armandotrue 🎤 Guest: Michael Small – Frontend Lead at Relationship One, contributor to ngrx-toolkit & creator of allEventsSignal in ngxtension @MichaelSmallDev We’ll cover: ✅ Signals in greenfield vs existing projects ✅ Libraries embracing signals ✅ RxJS vs Signals tradeoffs & interop experiences ✅ Migration strategies & caveats ✅ Where signals fit best in production",
+    "link": "https://www.youtube.com/watch?v=B_0ltFmQaao",
+    "embedLink": "https://www.youtube.com/embed/B_0ltFmQaao",
+    "thumbnail": "https://i.ytimg.com/vi/B_0ltFmQaao/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals",
+      "ngrx",
+      "rxjs"
+    ]
+  }
+]

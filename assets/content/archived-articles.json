@@ -1,0 +1,130 @@
+[
+  {
+    "img": "https://images.indepth.dev/images/2021/08/2.jpg",
+    "link": "https://indepth.dev/posts/1473/how-oop-is-mistreated-in-angular",
+    "title": "How OOP is mistreated in Angular",
+    "date": "Aug 9, 2021",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/05/3-1.jpg",
+    "link": "https://indepth.dev/posts/1456/a-journey-into-ngrx-selectors",
+    "title": "A journey into NgRx Selectors",
+    "date": "May 6, 2021",
+    "tags": ["angular", "ngrx"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/03/NGRX-Best-Practices-1.jpeg",
+    "link": "https://indepth.dev/posts/1451/ngrx-best-practices-new",
+    "title": "NGRX Best Practices",
+    "date": "Mar 31, 2021",
+    "tags": ["angular", "ngrx"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/03/NGRX-Bad-Practices-1.jpeg",
+    "link": "https://indepth.dev/posts/1442/ngrx-bad-practices",
+    "title": "NGRX Bad Practices",
+    "date": "Mar 19, 2021",
+    "tags": ["angular", "ngrx"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/02/How-to-refactor-an-Angular-codebase1.jpg",
+    "link": "https://indepth.dev/posts/1425/how-to-refactor-an-angular-codebase",
+    "title": "How to refactor an Angular codebase",
+    "date": "Feb 15, 2021",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/01/RxJS-in-Angular_-Part-III.png",
+    "link": "https://indepth.dev/posts/1364/rxjs-in-angular",
+    "title": "RxJS in Angular: Part III",
+    "date": "Jan 21, 2021",
+    "tags": ["angular", "rxjs"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/01/RxJS-in-Angular_-Part-II.png",
+    "link": "https://indepth.dev/posts/1316/rxjs-in-angular-part-ii",
+    "title": "RxJS in Angular: Part II",
+    "date": "Aug 18, 2020",
+    "tags": ["angular", "rxjs"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/01/RxJS_-The-Unexpected.png",
+    "link": "https://indepth.dev/posts/1292/rxjs-the-unexpected",
+    "title": "RxJS: The Unexpected",
+    "date": "Jun 25, 2020",
+    "tags": ["rxjs"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/01/Angular_-The-Unexpected.png",
+    "link": "https://indepth.dev/posts/1281/angular-the-unexpected",
+    "title": "Angular: The Unexpected",
+    "date": "May 29, 2020",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2020/04/angular-3-logo.png",
+    "link": "https://indepth.dev/posts/1224/angular-forms-useful-tips",
+    "title": "Angular Forms: Useful Tips",
+    "date": "Apr 21, 2020",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2020/03/blog-rangle-rxjs-if-operator-1.gif",
+    "link": "https://indepth.dev/posts/1196/rxjs-for-await-what",
+    "title": "Rxjs + For + Await… What?",
+    "date": "Mar 30, 2020",
+    "tags": ["rxjs"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2020/03/picturemessage_vbowhppf.gbk-1.png",
+    "link": "https://indepth.dev/posts/1189/angular-bad-practices-revisited",
+    "title": "Angular Bad Practices: Revisited",
+    "date": "Mar 26, 2020",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/01/RxJS-in-Angular_-Part-I.png",
+    "link": "https://indepth.dev/posts/1162/rxjs-in-angular-part-1",
+    "title": "RxJS in Angular: Part I",
+    "date": "Feb 27, 2020",
+    "tags": ["angular", "rxjs"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/01/How-not-to-trick-TypeScript-compiler-and-not-be-tricked-by-it.png",
+    "link": "https://indepth.dev/posts/1150/how-not-to-trick-typescript-compiler-and-not-be-tricked-by-it",
+    "title": "How not to trick TypeScript compiler and not be tricked by it",
+    "date": "Feb 21, 2020",
+    "tags": ["typescript"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2020/02/1_93RDyUE-i4nD3w-Np4265Q.png",
+    "link": "https://indepth.dev/posts/1116/angular-web-components-a-complete-guide",
+    "title": "Angular + Web Components: a complete guide",
+    "date": "Feb 6, 2020",
+    "tags": ["angular"],
+    "description": ""
+  },
+  {
+    "img": "https://images.indepth.dev/images/2021/03/Rx.js-Operators--Part-II.png",
+    "link": "https://indepth.dev/posts/1445/rx-js-operators-part-ii",
+    "title": "Rx.js Operators, Part II",
+    "date": "Dec 24, 2019",
+    "tags": ["rxjs"],
+    "description": ""
+  }
+]
