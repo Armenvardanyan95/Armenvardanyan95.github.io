@@ -1,5 +1,19 @@
 [
   {
+    "videoId": "tsjICAQorjc",
+    "title": "Gemini Nano in Angular",
+    "date": "2026-10-14",
+    "description": "Chrome now ships a real AI model right inside the browser. While it is still experimental, I see it as what comes before the future of a lot of small local models running to perform background small, yet important tasks. This Wednesday, join me as we build an Angular app on top of Gemini Nano, and see what fascinating things are already achievable today",
+    "link": "https://www.youtube.com/watch?v=tsjICAQorjc",
+    "embedLink": "https://www.youtube.com/embed/tsjICAQorjc",
+    "thumbnail": "https://i.ytimg.com/vi/tsjICAQorjc/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "ai",
+      "signals"
+    ]
+  },
+  {
     "videoId": "7gpcELpjifo",
     "title": "What's new In Angular 22.2",
     "date": "2026-10-07",
