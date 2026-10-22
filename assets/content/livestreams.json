@@ -1,5 +1,17 @@
 [
   {
+    "videoId": "54vCSFRecqg",
+    "title": "Exploring Angular Native",
+    "date": "2026-10-21",
+    "description": "This week, we are diving into Angular Native, a new platform for building NATIVE mobile apps with Angular! Built on the same foundations and ideas as React Native, it helps you bring your Angular experience into the prepared environment to rocket-launch a mobile app. A must-see this Wednesday!",
+    "link": "https://www.youtube.com/watch?v=54vCSFRecqg",
+    "embedLink": "https://www.youtube.com/embed/54vCSFRecqg",
+    "thumbnail": "https://i.ytimg.com/vi/54vCSFRecqg/hqdefault.jpg",
+    "tags": [
+      "angular"
+    ]
+  },
+  {
     "videoId": "tsjICAQorjc",
     "title": "Gemini Nano in Angular",
     "date": "2026-10-14",
