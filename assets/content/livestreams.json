@@ -1,5 +1,18 @@
 [
   {
+    "videoId": "iY-ki8byjFc",
+    "title": "Hands on: TanStack Query",
+    "date": "2026-10-28",
+    "description": "Okay everyone, time for me to talk about TanStack Angular! For quite a long time tools like React Query were dominating non-Angular frontend frameworks, but since TanStack became available, we can use its full power in our Angular apps. Resources cover most of the \"HTTP request\" functionality, but not mutations, and TanStack also has so much more to offer: database, store and even AI integrations! Join me this Wednesday to explore TanStack in Angular together!",
+    "link": "https://www.youtube.com/watch?v=iY-ki8byjFc",
+    "embedLink": "https://www.youtube.com/embed/iY-ki8byjFc",
+    "thumbnail": "https://i.ytimg.com/vi/iY-ki8byjFc/hqdefault.jpg",
+    "tags": [
+      "angular",
+      "signals"
+    ]
+  },
+  {
     "videoId": "54vCSFRecqg",
     "title": "Exploring Angular Native",
     "date": "2026-10-21",
